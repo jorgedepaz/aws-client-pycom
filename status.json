@@ -1,0 +1,45 @@
+{
+  "Status": {
+    "Actuadores": {
+      "SSR": true
+    },
+    "Timers": false,
+    "Chip Id": "6227305c7861655c7861342c5c7864395c78653027",
+    "Conectividad": {
+      "Wifi": {
+        "Ip": "192.168.3.22",
+        "Gateway": "192.168.0.1",
+        "SubnetMask": "255.255.255.0",
+        "DNS": "10.8.255.11"
+      },
+      "CAT M": {
+        "ACTIVO": false,
+        "CellID": "8520",
+        "RSSI": "123db"
+      },
+      "BLUETOOTH": {
+        "ID": "654",
+        "RSSI": "653db",
+        "ACTIVO": false
+      }
+    },
+    "Nivel de bateria": "92%",
+    "Sensores": {
+      "Humedad": false,
+      "Luz ambiente": false,
+      "Acelerometro": false,
+      "Presion": false,
+      "Altura": false,
+      "Temperatura": false
+    },
+    "Horario UTC": {
+      "Microsecond": 82479,
+      "Day": 11,
+      "Year": 2019,
+      "Minute": 37,
+      "Second": 43,
+      "Month": 8,
+      "Hour": 23
+    }
+  }
+}
